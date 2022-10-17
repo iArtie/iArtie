@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" width="500"/>
+<img src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" width="800"/>
 
 ## Bienvenido a mi Perfil!
 
