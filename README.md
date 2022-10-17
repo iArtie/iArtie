@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/85895666?s=96&v=4" width="100"/>
 
-## Welcome to my profile!
+## Bienvenido a mi Perfil!
 
 Hola soy iArtie o mejor conocido como BitZ! Me gusta programar en C# y actualmente me estoy introduciendo en C++ avanzado para hacer mods para [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
 
