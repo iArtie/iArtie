@@ -2,7 +2,7 @@
 
 Hola soy iArtie o mejor conocido como BitZ! Me gusta programar en C# y actualmente me estoy introduciendo en C++ avanzado para hacer mods para [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
 
-[![iArtie's GitHub stats](https://github-readme-stats.vercel.app/api?username=iartie&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![iArtie's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iartie&&show_icons=true&theme=dark)
 
 <img src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" width="500"/>
 
