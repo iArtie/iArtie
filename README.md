@@ -15,7 +15,7 @@ Hola soy iArtie o mejor conocido como BitZ! Me gusta programar en C# y actualmen
   </a>
  
   <a href="https://github.com/iArtie/blocdenotasxd">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=iartie&repo=blocdenotasxd&title_color=fff&icon_color=f9f9f9&text_color=ffff&bg_color=ffffff,ffff,00f2ff&border_color=30,00f2ff,ffff" hspace="10" width="45%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=iartie&repo=blocdenotasxd&title_color=383f40&icon_color=383f40&text_color=383f40&bg_color=ffffff,ffff,00f2ff&border_color=00ff15" hspace="10" width="45%"/>
   </a>
   
 Actualmente estoy desarrollando proyectos a futuro, por el momento solo tengo proyectos de mi universidad, si quieres informarte puedes unirte a [Mi servidor de Discord](https://discord.gg/Ketv5BsqHt)!
