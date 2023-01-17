@@ -10,11 +10,11 @@ Hola soy iArtie o mejor conocido como BitZ! Me gusta programar en C# y actualmen
 
 <p float="center">
  
- <a href="https://github.com/gd-star-pp/website/">
+ <a href="https://github.com/iArtie/WeadelClimaxdd">
  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=iartie&repo=WeadelClimaxdd&title_color=fff&icon_color=f9f9f9&text_color=ffff&bg_color=30,e96443,904e95&border_color=904e95,e96443,30" hspace="10" width="45%"/>
   </a>
  
-  <a href="https://github.com/maple-ml/cinnamon/">
+  <a href="https://github.com/iArtie/blocdenotasxd">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=iartie&repo=blocdenotasxd&title_color=fff&icon_color=f9f9f9&text_color=ffff&bg_color=30,e96443,904e95&border_color=904e95,e96443,30" hspace="10" width="45%"/>
   </a>
   
