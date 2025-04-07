@@ -18,5 +18,5 @@ Hola soy iArtie o mejor conocido como BitZ! Me gusta programar en C# y hago mods
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=iartie&repo=CustomProfiles&title_color=383f40&icon_color=383f40&text_color=383f40&bg_color=ffffff,ffff,00f2ff&border_color=00ff15" hspace="10" width="45%"/>
   </a>
   
-Si estas aqui, agradezco mucho que leas esto, te invito a [Mi servidor de Discord](https://discord.gg/Ketv5BsqHt)!
+Si estas aqui, agradezco mucho que leas esto, te invito a [Mi servidor de Discord](https://discord.gg/k8WBF5Z9sW)!
 
