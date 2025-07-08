@@ -1,22 +1,32 @@
-## Bienvenido a mi Perfil!
+## ¡Bienvenido a mi perfil!
 
-Hola soy iArtie o mejor conocido como BitZ! Me gusta programar en C# y hago mods para [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
+Soy **iArtie** (también conocido como **BitZ**), un modder y desarrollador apasionado por **C#** y los mods de [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/).
 
-[![iArtie's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iartie&&show_icons=true&theme=dark)
+---
 
-<img src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif" width="500"/>
+## ⚙Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iArtie&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iArtie&layout=compact&theme=dark)
+
+---
 
 ## Mis Proyectos
 
-<p float="center">
- 
- <a href="https://github.com/iArtie/FreeGames">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=iartie&repo=FreeGames&title_color=fff&icon_color=f9f9f9&text_color=ffff&bg_color=30,e96443,904e95&border_color=904e95,e96443,30" hspace="10" width="45%"/>
-  </a>
- 
-  <a href="https://github.com/iArtie/CustomProfiles">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=iartie&repo=CustomProfiles&title_color=383f40&icon_color=383f40&text_color=383f40&bg_color=ffffff,ffff,00f2ff&border_color=00ff15" hspace="10" width="45%"/>
-  </a>
-  
-Si estas aqui, agradezco mucho que leas esto, te invito a [Mi servidor de Discord](https://discord.gg/k8WBF5Z9sW)!
+🎮 [FreeGames](https://github.com/iArtie/FreeGames)  
+Un compendio de juegos en C# creados por mí, algunos divertidos, otros experimentales. ¡Pruébalos!
 
+🧑‍💻 [CustomProfiles](https://github.com/iArtie/CustomProfiles)  
+Mod para cambiar perfiles en Geometry Dash. Personalización al máximo 🔧
+
+
+![maid dragon gif](https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif)
+
+
+
+## Gracias por visitar!
+
+Si estás aquí, de verdad te lo agradezco mucho  
+¿Querés hablar? Unite a mi Discord:  
+[Mi servidor de Discord](https://discord.gg/k8WBF5Z9sW)
